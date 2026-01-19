@@ -1,0 +1,8 @@
+# 1. 가상환경 생성 v 
+# 2. 필요한 패키지 설치 v 
+# 3. streamlit input / output 만들기 v
+# 4. 실제 local 서버에서 실행되는지 확인 v 
+# 4-1. pip freeze > requirements.txt  v 
+# 4-2. .gitignore 작성해서 .env 가리기 v 
+# 5. github repo 만들기
+# 6. share.streamlit.io에 연동하기
