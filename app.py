@@ -46,5 +46,5 @@ response = client.responses.create(
 )
 
 st.code(response.output_text) # 믿을 수 없으니까 중간과정도 확인
-st.dataframe(eval(response.output_text))
+st.write(eval(response.output_text))
 # 
